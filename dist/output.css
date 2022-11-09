@@ -687,7 +687,7 @@ video {
 }
 
 .bg-hero-pattern {
-  background-image: url('images/bg-header-mobile.png');
+  background-image: url('../images/bg-header-mobile.png');
 }
 
 .bg-cover {
@@ -796,7 +796,7 @@ video {
   }
 
   .md\:bg-hero-desktop {
-    background-image: url('/images/bg-header-desktop.png');
+    background-image: url('../images/bg-header-desktop.png');
   }
 
   .md\:bg-cover {
